@@ -75,15 +75,15 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Input Your Concept",              description: "Describe your vision in natural language. Our AI understands context, mood, and creative intent to generate the perfect video.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/professional-ai-generated-cinematic-vide-1773562099439-6b8beef8.png",              imageAlt: "Input text description interface"
+              title: "Input Your Concept",              description: "Describe your vision in natural language. Our AI understands context, mood, and creative intent to generate the perfect video.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/professional-ai-generated-cinematic-vide-1773562099439-6b8beef8.png?_wi=1",              imageAlt: "Input text description interface"
             },
             {
               id: 2,
-              title: "AI Processing",              description: "Advanced algorithms analyze your input and generate visual elements, animations, transitions, and effects in real-time.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/dynamic-ai-created-music-video-frame-wit-1773562099536-e9711e82.png",              imageAlt: "AI processing visualization with effects"
+              title: "AI Processing",              description: "Advanced algorithms analyze your input and generate visual elements, animations, transitions, and effects in real-time.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/dynamic-ai-created-music-video-frame-wit-1773562099536-e9711e82.png?_wi=1",              imageAlt: "AI processing visualization with effects"
             },
             {
               id: 3,
-              title: "Download & Share",              description: "Get your finished video instantly in multiple formats. Ready for social media, presentations, or professional broadcast.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/corporate-ai-generated-explainer-video-f-1773562099799-596598de.png",              imageAlt: "Download and share options interface"
+              title: "Download & Share",              description: "Get your finished video instantly in multiple formats. Ready for social media, presentations, or professional broadcast.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/corporate-ai-generated-explainer-video-f-1773562099799-596598de.png?_wi=1",              imageAlt: "Download and share options interface"
             }
           ]}
         />
@@ -102,13 +102,13 @@ export default function LandingPage() {
           animationType="blur-reveal"
           products={[
             {
-              id: "video-1",              name: "Cinematic Product Showcase",              price: "Premium Quality",              variant: "4K Resolution",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/professional-ai-generated-cinematic-vide-1773562099439-6b8beef8.png",              imageAlt: "Professional product showcase video with purple lighting"
+              id: "video-1",              name: "Cinematic Product Showcase",              price: "Premium Quality",              variant: "4K Resolution",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/professional-ai-generated-cinematic-vide-1773562099439-6b8beef8.png?_wi=2",              imageAlt: "Professional product showcase video with purple lighting"
             },
             {
-              id: "video-2",              name: "Dynamic Music Video",              price: "Full HD Quality",              variant: "30 Seconds",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/dynamic-ai-created-music-video-frame-wit-1773562099536-e9711e82.png",              imageAlt: "Abstract music video with vibrant visual effects"
+              id: "video-2",              name: "Dynamic Music Video",              price: "Full HD Quality",              variant: "30 Seconds",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/dynamic-ai-created-music-video-frame-wit-1773562099536-e9711e82.png?_wi=2",              imageAlt: "Abstract music video with vibrant visual effects"
             },
             {
-              id: "video-3",              name: "Corporate Explainer",              price: "4K Quality",              variant: "60 Seconds",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/corporate-ai-generated-explainer-video-f-1773562099799-596598de.png",              imageAlt: "Professional business explainer animation"
+              id: "video-3",              name: "Corporate Explainer",              price: "4K Quality",              variant: "60 Seconds",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AyPqPO3iqFQKqkyARlf8pzd5eu/corporate-ai-generated-explainer-video-f-1773562099799-596598de.png?_wi=2",              imageAlt: "Professional business explainer animation"
             }
           ]}
         />
